@@ -110,7 +110,7 @@ classDiagram
     Torneo o-- Jugador
     Jugador o-- Videojuego 
 ```
-# ✅ Autoevaluación personal — Preparación para el examen parcial
+# ✅ Autoevaluación personal — 
 
 **Instrucciones:**  
 Marca con una **X** si cumples plenamente con lo que enuncia cada afirmación.  
